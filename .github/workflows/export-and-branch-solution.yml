@@ -28,7 +28,6 @@ env:
   ENVIRONMENT_URL: 'https://lybdev.crm.dynamics.com/'
   CLIENT_ID: 'ae0958f0-b5cb-4a62-8d83-50718b4c6747'
   TENANT_ID: 'fbe62081-06d8-481d-baa0-34149cfefa5f'
-  PowerPlatformSPN: 'LI99_nDRNxHtluAS86GRR-2mn_05j2.ntD'
 jobs:
   export-from-dev:
     runs-on: windows-latest
