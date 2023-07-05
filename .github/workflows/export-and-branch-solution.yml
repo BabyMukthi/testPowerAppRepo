@@ -26,8 +26,8 @@ on:
 env:
 #edit your values here
   ENVIRONMENT_URL: 'https://lybdev.crm.dynamics.com/'
-  CLIENT_ID: 'ae0958f0-b5cb-4a62-8d83-50718b4c6747'
-  TENANT_ID: 'fbe62081-06d8-481d-baa0-34149cfefa5f'
+  CLIENT_ID: ''
+  TENANT_ID: ''
 jobs:
   export-from-dev:
     runs-on: windows-latest
